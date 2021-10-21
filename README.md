@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pierre-44
-- 👀 I’m interested in aérospacial , automobiles, and new technologies, and coding
-- 🌱 I’m currently learning java and création of applications on android studio
+- 👀 I’m interested in aérospacial , automotive, new technologies, and coding !
+- 🌱 I’m currently learning java and the création of applications on android studio
 - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me :
 - on linkedin : @https://www.linkedin.com/in/pierre-meignen-51b232156/ 
